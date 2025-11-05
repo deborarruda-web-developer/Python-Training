@@ -1,0 +1,7 @@
+print('  DDDDD','           AAA')
+print('D        D','       A    A')
+print('D         D','     A      A')
+print('D          D','   AAAAAAAAAA')
+print('D         D','   A          A')
+print('D        D','   A            A')
+print('  DDDDD','     A              A')
